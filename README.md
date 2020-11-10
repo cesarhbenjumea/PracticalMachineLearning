@@ -1,3 +1,3 @@
 # PracticalMachineLearning
 
-Access the .md file to see the project.
+Access the Course_Project.md file to see the project.
