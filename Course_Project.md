@@ -1,7 +1,6 @@
 Project - Practical Machine Learning
 --------
-2020-11-10
-Cesar Benjumea
+2020-11-10 - Cesar Benjumea
 
 
 Packages
