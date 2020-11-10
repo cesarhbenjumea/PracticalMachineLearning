@@ -1,5 +1,11 @@
-Packages
+Project - Practical Machine Learning
+--------
+2020-11-10
+Cesar Benjumea
 
+
+Packages
+--------
     library(caret)
     library(ggplot2)
     library(gridExtra)
